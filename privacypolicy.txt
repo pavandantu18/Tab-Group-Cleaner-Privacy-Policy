@@ -1,0 +1,17 @@
+Privacy Policy for Tab Group Cleaner
+
+Tab Group Cleaner does not sell, share, or transmit personal data to the developer or third parties.
+
+The extension works locally in the user’s browser. It accesses tab titles and URLs only to provide tab management features such as filtering tabs, detecting duplicates, grouping tabs by domain, and saving or restoring snapshots.
+
+Data that may be processed or stored locally on the user’s device includes:
+- Tab titles
+- Tab URLs
+- Snapshot names
+- Theme and extension preferences
+
+This data is stored locally using Chrome storage and is used only for the core functionality of the extension. No analytics, advertising, tracking, or remote code execution is used.
+
+Users can remove stored data at any time by deleting saved snapshots, clearing extension storage, or uninstalling the extension.
+
+Contact: pavandantu18@gmail.com
